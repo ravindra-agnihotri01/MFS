@@ -11,4 +11,12 @@ public class CallOtherClass extends BookCoverPage{
     public void heroEntry(){}
 
     public void heroinEntry(){}
+
+    public void tescaseLikho() {
+
+    }
+
+    public void executeKaro() {
+
+    }
 }
